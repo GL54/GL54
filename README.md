@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jithu Krishnan</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dpi4kthgp/image/upload/v1658195323/glitchmaingif_xnqxw0.gif"/>
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dpi4kthgp/image/upload/v1658238102/output-onlinegiftools_yopvve.gif"/>
 
 
 - 🌱 I’m currently learning **React in depth**
