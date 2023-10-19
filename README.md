@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React in depth**
 
-- 👨‍💻 All of my projects are available at [jithukrishnan.ml](jithukrishnan.ml)
+- 👨‍💻 My main projects are private due to some reason , to know my skill , just contact me
 
 - 💬 Ask me about **react , mongoose and express**
 
